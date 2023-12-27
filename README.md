@@ -1,3 +1,5 @@
+# About Text Editor
+Text Editor is a react based application which allows the user to perform basic operations on text. The functions include converting to Uppercase , converting to lowercase , copying to clipboard, etc.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
